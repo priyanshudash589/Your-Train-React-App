@@ -1,5 +1,5 @@
 import React from 'react'
-import Logomain from '../assets/Logomain.svg'
+import Logomain from '../assets/logomain.svg'
 import Button from '../constants/Button'
 
 const Navbar = () => {
